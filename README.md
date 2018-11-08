@@ -1,2 +1,2 @@
 # light-switch-server
-Raspberry Pi - Turns on a light
+Raspberry Pi - Turns on a light 
